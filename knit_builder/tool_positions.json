@@ -1,0 +1,8 @@
+{
+    "transfer_start": [-33, 26.5],
+    "transfer_end": [-73, 26.5],
+    "brush_start": [-23, -1.5],
+    "brush_middle": [-43, -1.5],
+    "brush_end": [-83, -1.5],
+    "clearance": [-23, -1.5]
+}
